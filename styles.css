@@ -51,7 +51,7 @@ a{color:inherit;text-decoration:none}
       rgba(0,0,0,.35) 75%,
       rgba(0,0,0,.05) 100%
     ),
-    url("photo/hero-bg.jpg") right center / cover no-repeat;
+    url("photo/hero-bg.jpg") right bottom / cover no-repeat;
 }
 
 .hero-inner{padding:70px 0}
@@ -570,3 +570,4 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   pointer-events: none;
 
 }
+
