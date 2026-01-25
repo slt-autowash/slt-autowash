@@ -54,7 +54,7 @@ a{color:inherit;text-decoration:none}
 }
 
 .hero-inner{padding:70px 0}
-.hero-content{max-width: 620px}
+.hero-content{max-width: 720px}
 
 /* === HERO : remettre le rendu "gros titre" === */
 .hero h1{
@@ -575,6 +575,7 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
 }.hero h1{
   font-size: clamp(52px, 6vw, 86px) !important;
 }
+
 
 
 
