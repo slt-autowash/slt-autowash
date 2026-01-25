@@ -72,12 +72,6 @@ a{color:inherit;text-decoration:none}
   line-height: 1.5;
   margin: 0 0 18px 0;
 }
-.local-seo {
-  margin-top: 10px;
-  font-size: 0.95rem;
-  opacity: 0.85;
-  font-weight: 500;
-}
 .hero-actions{
   display:flex;
   flex-wrap:wrap;
@@ -574,6 +568,7 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   pointer-events: none;
 
 }
+
 
 
 
