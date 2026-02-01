@@ -597,6 +597,13 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   .reveal { animation: none; opacity: 1; transform: none; }
 }
 
+/* Mobile (par défaut) */
+.container { width: 95%; }
+
+/* PC */
+@media (min-width: 992px) {
+  .container { width: 900px; margin: 0 auto; }
+}
 
 
 
