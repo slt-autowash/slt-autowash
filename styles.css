@@ -162,7 +162,7 @@ h2{margin:0 0 10px 0; font-size: 32px}
 }.lightbox{
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,.85);
+  background: rgba(0,0,0,.35);
   display: none;
   align-items: center;
   justify-content: center;
@@ -614,6 +614,7 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   }
 
 }
+
 
 
 
