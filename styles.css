@@ -152,7 +152,7 @@ h2{margin:0 0 10px 0; font-size: 32px}
 
 @media (max-width: 768px){
   .nav{gap:12px; font-size:14px}
-  .hero{background-position: 70% center;}
+  .hero{background-position: 50% 10%; }
   .grid{grid-template-columns: repeat(2, 1fr);}
   .cards{grid-template-columns: 1fr;}
 }document.getElementById("year").textContent = new Date().getFullYear();
@@ -614,6 +614,7 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   }
 
 }
+
 
 
 
