@@ -157,7 +157,7 @@ h2{margin:0 0 10px 0; font-size: 32px}
 }
   .grid{grid-template-columns: repeat(2, 1fr);}
   .cards{grid-template-columns: 1fr;}
-}document.getElementById("year").textContent = new Date().getFullYear();
+}
 .hero,
 .hero::before {
   pointer-events: none;
@@ -616,6 +616,7 @@ box-shadow: 0 0 16px rgba(0, 255, 204, 0.45);
   }
 
 }
+
 
 
 
